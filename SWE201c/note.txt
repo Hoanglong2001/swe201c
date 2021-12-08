@@ -1,0 +1,70 @@
+Course 1:
+
+
+Week 1:
+- Requirement is process to identify and specify
+
+- World, Requirement, Specification, Program, Machine
+- WRSPM: spec meet require
+
+- Architecture: partition large to small
+- UNIX: pipe-and-filter
+- Online banking: client-server
+- Vehicle identification and tracking system: blackboard
+- Subsystem can comprise the business logic
+- Soft quality - soft architecture: 
+	perform, realiability, test, secure, usability
+
+- Difficult in soft dev process: accurate identify user needs
+- Requirement specification: both
+- NASA: 5-10%
+- NOT non-functional requirement: able to see course number
+- System with shared data across a variety of components: blackboard
+- System includes several subsets of functionality: pipi-and-filter
+- System separation of complexity and processing: client-server
+
+Week 2:
+- Modularity: infor hiding, data encap, coupling, cohesion
+- How well modules work together: coupling
+- Abstraction away implementation: infor hiding
+- How well module meets single goal: cohension
+- Have a sort function: infor hiding
+
+- Low coupling aids in: ensure that changes dont cross
+- 3 types of tight coupling: content, common, external
+- A relies directly B: tight content coupling
+- A and B both rely on global data: tight common coupling
+- Rely on externally imposed format: tight external coupling
+- 2 types of medium coupling: Control, Data structure
+- 3 types of loose coupling are: Data, Messega, None
+- Only share parameters: loose data coupling
+- Components only communicate: loose message coupling
+
+- Cohension desribes: how well everything fits together
+- 4 types of weak cohesion: Coincidental, temporal, procedural, logical association
+- Part of modules are together: coincidental
+- Diff pieces of code are activated: temporal
+- One piece of code runs after the other: procedural
+- Components do similar but separate things: logical
+- 2 types of medium cohension: communication, sequantial
+- 2 types of strong cohension: object, functional
+
+- 3 cutover stratagies: hot failover, warm standby, cold backup
+
+- Software design fit in the waterfall: between architecture and implemetation
+- Use a built-in function: infor hiding
+- Analyzing the extent to which other modules: coupling
+- Responsibilities of a module are classified: cohension
+- Most prefer: message coupling
+- LEAST desirable: occurs around the same time
+- Before proper testing: input, output, oracle
+- Mistake in code not yet been activatied: latent error
+- Example of validation: software is well-recieve by the user
+- Utilize the intern resources
+- Testing complete: run out of time
+- Black-box testing: based on typical user behavior
+
+
+Week 3:
+- Sashimi decrese the time: overlapping the phases
+
